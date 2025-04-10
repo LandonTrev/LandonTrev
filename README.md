@@ -9,12 +9,6 @@ I am currently an Undergraduate Student at Florida Gulf Coast University, studyi
 
 ## Tools
 
-### Network
-
-### Endpoint
-
-### SIEM
-
 ## Certifications
 
 
