@@ -22,7 +22,6 @@ The **Google Cybersecurity Professional Certificate** is designed to prepare beg
 - Focus Areas: Cybersecurity foundations, networks, security best practices, SIEM tools, risk management, and more
 - Skill Level: Beginner to Intermediate
 
----
 
 ## 🗂️ Repository Structure
 
@@ -30,9 +29,6 @@ This repo is organized module-by-module. Each folder contains:
 
 - 📄 **Notes**: Summarized key concepts
 - 🛠️ **Assignments/Work**: Hands-on practice and project files
-- 📋 **Cheat Sheets**: Quick reference material for future use
-
-```
 
 ## 🧩 Course Modules Overview
 
