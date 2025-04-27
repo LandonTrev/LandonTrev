@@ -10,7 +10,6 @@ This repository serves as a reference for everything I covered across all 8 modu
 - [About the Course](#about-the-course)
 - [Repository Structure](#repository-structure)
 - [Course Modules Overview](#course-modules-overview)
-- [How to Navigate](#how-to-navigate)
 - [License](#license)
 
 ---
@@ -33,18 +32,7 @@ This repo is organized module-by-module. Each folder contains:
 - 🛠️ **Assignments/Work**: Hands-on practice and project files
 - 📋 **Cheat Sheets**: Quick reference material for future use
 
-Example structure:
 ```
-/Module 1 - Foundations of Cybersecurity
-    /Notes
-    /Assignments
-    /CheatSheets
-
-/Module 2 - Play It Safe: Management of Security Risks
-    ...
-```
-
----
 
 ## 🧩 Course Modules Overview
 
