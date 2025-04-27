@@ -1,34 +1,17 @@
 # Google Cybersecurity Certificate - Course Notes and Work
 
-Welcome to my organized notes and project work for the **Google Cybersecurity Certificate** offered through Coursera.
+Work covered in the **Google Cybersecurity Certificate** offered through Coursera.
 
-This repository serves as a reference for everything I covered across all 8 modules of the course. It includes detailed notes, practical exercises, and key takeaways aimed at building strong foundational cybersecurity skills.
-
----
-
-## 📚 Table of Contents
-- [About the Course](#about-the-course)
-- [Repository Structure](#repository-structure)
-- [Course Modules Overview](#course-modules-overview)
-- [License](#license)
+This repository serves as a reference for everything I covered across all 8 modules of the course. It includes notes and practice projects aimed at building a strong foundation of cybersecurity skills.
 
 ---
 
 ## 📖 About the Course
 
-The **Google Cybersecurity Professional Certificate** is designed to prepare beginners for entry-level cybersecurity roles. It covers core topics like threat detection, risk management, security frameworks, incident response, and hands-on security tools.
+The **Google Cybersecurity Professional Certificate** is designed to prepare beginners for various entry-level roles in the space It covers core topics like threat detection, risk management, security frameworks, incident response, and hands-on security tools. It entails that Cybersecuriy is vast and there are many different career paths (Offensive/Defensive)
 
 - Offered by: Google via Coursera
-- Focus Areas: Cybersecurity foundations, networks, security best practices, SIEM tools, risk management, and more
-- Skill Level: Beginner to Intermediate
-
-
-## 🗂️ Repository Structure
-
-This repo is organized module-by-module. Each folder contains:
-
-- 📄 **Notes**: Summarized key concepts
-- 🛠️ **Assignments/Work**: Hands-on practice and project files
+- Focus Areas: Cybersecurity foundations, networks, security best practices, SIEM tools, risk management
 
 ## 🧩 Course Modules Overview
 
