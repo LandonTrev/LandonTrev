@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Q2_Basic_If_Else_infinite_while_loops",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Q2_Basic_If_Else_infinite_while_loops::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Q2_Basic_If_Else_infinite_while_loops-Debug-5266937c1cff447344a8.json",
+					"name" : "Q2_Basic_If_Else_infinite_while_loops",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/lando/CLionProjects/Q2 Basic If-Else infinite-while loops/cmake-build-debug",
+		"source" : "C:/Users/lando/CLionProjects/Q2 Basic If-Else infinite-while loops"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

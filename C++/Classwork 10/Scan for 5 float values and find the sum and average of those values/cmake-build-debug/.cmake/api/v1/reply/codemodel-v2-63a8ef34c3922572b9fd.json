@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Scan_for_5_float_values_and_find_the_sum_and_average_of_those_values_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Scan_for_5_float_values_and_find_the_sum_and_average_of_those_values_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Scan_for_5_float_values_and_find_the_sum_and_average_of_those_values_-Debug-07f5444e8a1b83a8e8e6.json",
+					"name" : "Scan_for_5_float_values_and_find_the_sum_and_average_of_those_values_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/lando/CLionProjects/Classwork 10/Scan for 5 float values and find the sum and average of those values/cmake-build-debug",
+		"source" : "C:/Users/lando/CLionProjects/Classwork 10/Scan for 5 float values and find the sum and average of those values"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

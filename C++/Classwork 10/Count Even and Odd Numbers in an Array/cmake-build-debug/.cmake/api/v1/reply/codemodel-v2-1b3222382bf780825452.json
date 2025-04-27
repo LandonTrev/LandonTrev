@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Count_Even_and_Odd_Numbers_in_an_Array",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Count_Even_and_Odd_Numbers_in_an_Array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Count_Even_and_Odd_Numbers_in_an_Array-Debug-7cbdb0c7ff6f23102ce6.json",
+					"name" : "Count_Even_and_Odd_Numbers_in_an_Array",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/lando/CLionProjects/Classwork 10/Count Even and Odd Numbers in an Array/cmake-build-debug",
+		"source" : "C:/Users/lando/CLionProjects/Classwork 10/Count Even and Odd Numbers in an Array"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

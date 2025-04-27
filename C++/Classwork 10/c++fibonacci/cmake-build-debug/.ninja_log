@@ -1,0 +1,5 @@
+# ninja log v6
+3	317	7514076298212645	CMakeFiles/c__fibonacci.dir/main.cpp.obj	208a4e1d8ed83009
+326	400	7514076301442404	c__fibonacci.exe	62e942abd5f9085
+24	339	7514081275664594	CMakeFiles/c__fibonacci.dir/main.cpp.obj	208a4e1d8ed83009
+340	409	7514081278833694	c__fibonacci.exe	62e942abd5f9085

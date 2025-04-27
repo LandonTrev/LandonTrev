@@ -1,0 +1,3 @@
+C:/Users/lando/CLionProjects/Classwork 10/FloydsTriangleAlphabet/cmake-build-debug/CMakeFiles/FloydsTriangleAlphabet.dir
+C:/Users/lando/CLionProjects/Classwork 10/FloydsTriangleAlphabet/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lando/CLionProjects/Classwork 10/FloydsTriangleAlphabet/cmake-build-debug/CMakeFiles/rebuild_cache.dir

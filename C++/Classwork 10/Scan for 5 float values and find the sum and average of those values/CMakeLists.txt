@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29)
+project(Scan_for_5_float_values_and_find_the_sum_and_average_of_those_values_)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Scan_for_5_float_values_and_find_the_sum_and_average_of_those_values_ main.cpp)

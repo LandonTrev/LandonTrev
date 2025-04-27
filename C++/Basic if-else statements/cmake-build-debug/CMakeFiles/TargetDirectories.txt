@@ -1,0 +1,3 @@
+C:/Users/lando/CLionProjects/Basic if-else statements/cmake-build-debug/CMakeFiles/Basic_if_else_statements.dir
+C:/Users/lando/CLionProjects/Basic if-else statements/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lando/CLionProjects/Basic if-else statements/cmake-build-debug/CMakeFiles/rebuild_cache.dir

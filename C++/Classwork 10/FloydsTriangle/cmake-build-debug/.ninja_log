@@ -1,0 +1,15 @@
+# ninja log v6
+2	333	7514043402796466	CMakeFiles/FloydsTriangle.dir/main.cpp.obj	6d899059c353878e
+343	419	7514043406207548	FloydsTriangle.exe	8feb56d6c4981cf3
+6	347	7514044120299059	CMakeFiles/FloydsTriangle.dir/main.cpp.obj	6d899059c353878e
+349	444	7514044123717175	FloydsTriangle.exe	8feb56d6c4981cf3
+20	346	7514049155175551	CMakeFiles/FloydsTriangle.dir/main.cpp.obj	6d899059c353878e
+346	431	7514049158437716	FloydsTriangle.exe	8feb56d6c4981cf3
+19	334	7514049728442579	CMakeFiles/FloydsTriangle.dir/main.cpp.obj	6d899059c353878e
+335	408	7514049731600265	FloydsTriangle.exe	8feb56d6c4981cf3
+21	333	7514053100384087	CMakeFiles/FloydsTriangle.dir/main.cpp.obj	6d899059c353878e
+333	408	7514053103515468	FloydsTriangle.exe	8feb56d6c4981cf3
+17	351	7514053686275288	CMakeFiles/FloydsTriangle.dir/main.cpp.obj	6d899059c353878e
+351	426	7514053689618661	FloydsTriangle.exe	8feb56d6c4981cf3
+20	343	7514054490568964	CMakeFiles/FloydsTriangle.dir/main.cpp.obj	6d899059c353878e
+343	410	7514054493805928	FloydsTriangle.exe	8feb56d6c4981cf3
