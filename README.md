@@ -1,17 +1,15 @@
 # Hello, I'm Landon Trevisani
 <a href="https://linkedin.com/in/LandonTrev"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currently an Undergraduate Student at Florida Gulf Coast University, studying Computer Information Systems (CIS), with a concentration in Cybersecurity. I have an interest in Security Technology, specifically a more defensive position, along with an interest in streamlining processes to make systems more efficient. 
+I am currently an Undergraduate Student at Florida Gulf Coast University, studying Computer Information Systems (CIS), with a concentration in Cybersecurity. Previously I studied Software Enginweering for a year and a half. I have an interest in Network Security and streamlining processes to make systems more efficient. In my GitHub, you'll find personal projects, notes for certications, and fundamentals for different programming languages. 
 
-## Objective
-
-## Skills
-
-## Tools
+## Skills 
+Python and C++
 
 ## Certifications
+Google Cybersecurity Professional Course/Certificate. Still completing as of May 7, 2025
 
 
 
-## Projects
+
 
