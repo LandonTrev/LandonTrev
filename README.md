@@ -5,6 +5,7 @@ I am currently an Undergraduate Student at Florida Gulf Coast University, studyi
 
 ## Skills 
 Python and C++
+Power BI
 
 ## Certifications
 Google Cybersecurity Professional Course/Certificate. Still completing as of May 7, 2025
