@@ -9,7 +9,15 @@ I am currently an Undergraduate Student at Florida Gulf Coast University, studyi
 * IT Help Desk Support
 
 ## Certifications
-Google Cybersecurity Professional Certificate
+* Google Cybersecurity Professional Certificate
+
+## Projects
+* [Security HomeLab](https://github.com/LandonTrev/VirtualBox-Security-Lab)
+
+## Notes
+* [Security+ Notes](https://github.com/LandonTrev/SecurityPlus)
+* [SAP Notes](https://github.com/LandonTrev/SAP-Notes)
+
 
 
 
