@@ -10,6 +10,7 @@ I am currently an Undergraduate Student at Florida Gulf Coast University, studyi
 
 ## Certifications
 * Google Cybersecurity Professional Certificate
+* CompTIA Security+ (In-Progress, Expected May 2026)
 
 ## Projects
 * [Security HomeLab](https://github.com/LandonTrev/VirtualBox-Security-Lab)
