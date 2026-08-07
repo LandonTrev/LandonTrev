@@ -13,7 +13,6 @@ I am currently an Undergraduate Student at Florida Gulf Coast University, studyi
 * CompTIA Security+ (In-Progress)
 
 ## Projects
-* [Security HomeLab](https://github.com/LandonTrev/VirtualBox-Security-Lab)
 * [ESXI HomeLab](https://github.com/LandonTrev/homelab-docs)
 
 ## Notes
