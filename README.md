@@ -17,9 +17,6 @@ I am currently an Undergraduate Student at Florida Gulf Coast University, studyi
 ## Projects
 * [ESXI HomeLab](https://github.com/LandonTrev/homelab-docs)
 
-## Notes
-* [Security+ Notes](https://github.com/LandonTrev/SecurityPlus)
-* [SAP Notes](https://github.com/LandonTrev/SAP-Notes)
 
 
 
