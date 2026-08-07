@@ -7,6 +7,8 @@ I am currently an Undergraduate Student at Florida Gulf Coast University, studyi
 * Power BI
 * IT Help Desk Support
 * System Analysis
+* SharePoint Online Administration
+* Networking
 
 ## Certifications
 * Google Cybersecurity Professional Certificate
