@@ -1,7 +1,7 @@
 # Hello, I'm Landon Trevisani
 <a href="https://www.linkedin.com/in/landontrev"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currently an Undergraduate Student at Florida Gulf Coast University, studying Computer Information Systems (CIS), with a concentration in Cybersecurity. I have an interest in Network Security, System Administration and streamlining processes to make systems more efficient. In my GitHub, you'll find personal projects and notes for certifications. 
+I am currently an Undergraduate Student at Florida Gulf Coast University, studying Computer Information Systems (CIS). I have an interest in Networking + System Administration and streamlining processes to make systems more efficient. In my GitHub, you'll find personal projects and notes for certifications. 
 ## Skills 
 * Power BI
 * IT Help Desk Support
